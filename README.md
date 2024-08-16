@@ -13,7 +13,8 @@ Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados pa
 * [Fundamentos do Microsoft Azure: Descrever recursos de identidade, governança, privacidade e conformidade](https://docs.microsoft.com/pt-br/learn/paths/az-900-descrever-recursos-identidade-governanca-privacidade-conformidade/)
 * [Fundamentos do Microsoft Azure: Descrever gerenciamento de custos do Azure e acordos de nível de serviço](https://docs.microsoft.com/pt-br/learn/paths/az-900-descrever-gerenciamento-custos-contratos-nivel-servico/)
 
-## 📝 Habilidades Medidas - [Obtidas a partir do link oficial](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
+
+## 📝 Habilidades Medidas - [Obtidas a partir do link oficial](https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900#skills-measured-as-of-january-23-2024)
 
 ### 💡 Descrever conceitos de nuvem (25–30%)
 
